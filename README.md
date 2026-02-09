@@ -9,8 +9,6 @@
 <h3 align="center">Unity Game Developer / QA Game Tester — focused on maintainable gameplay systems, modular architecture, and player engagement.</h3>
 
 
-  <a href="https://www.linkedin.com/in/berkan-cenan-demirer-37637923b"><img src="https://img.shields.io/badge/LinkedIn-Berkan%20Cenan%20Demirer-00E7FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
 
 ---
 
