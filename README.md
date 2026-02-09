@@ -27,7 +27,7 @@
 
 ---
 
-### 🎮 Released / Public Projects
+### 🎮 Released Projects
 - **Puke** (Steam) — https://store.steampowered.com/app/2640130/Puke
 - **Sanctuary** (itch.io) — https://skyfect.itch.io/sanctuary
 - **Think** (itch.io) — https://okks.itch.io/think
