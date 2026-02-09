@@ -8,9 +8,7 @@
 <h1 align="center">Hello there, I'm Berkan Cenan</h1>
 <h3 align="center">Unity Game Developer / QA Game Tester — focused on maintainable gameplay systems, modular architecture, and player engagement.</h3>
 
-<p align="center">
-  <a href="mailto:berkancenan@hotmail.com"><img src="https://img.shields.io/badge/Email-berkancenan%40hotmail.com-00E7FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/cenandemirer"><img src="https://img.shields.io/badge/GitHub-cenandemirer-00E7FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+
   <a href="https://www.linkedin.com/in/berkan-cenan-demirer-37637923b"><img src="https://img.shields.io/badge/LinkedIn-Berkan%20Cenan%20Demirer-00E7FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -21,9 +19,13 @@
 - 🧠 I enjoy building **event-driven flows**, **quest/progression systems**, **AI/game cycles** (day-night, economy)
 - 🧪 Strong focus on **debugging**, **maintainability**, and **clean modular code**
 - 🔐 Most of my daily work is on private Unity repositories (systems, prototypes, QA tools)
-- 📍 Istanbul, Türkiye
+- 📍 Istanbul, Turkiye
 - 📫 Reach me: **berkancenan@hotmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/berkan-cenan-demirer-37637923b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkancenandemirer" height="30" width="40" /></a>
+<a href="https://www.instagram.com/cenandemirer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cenandemirer" height="30" width="40" /></a>
 
 ---
 
