@@ -5,7 +5,7 @@
 </p>
 
 
-<h1 align="center">Hello there, I'm Berkan Cenan</h1>
+<h1 align="center">Hello there, I'm Cenan</h1>
 <h3 align="center">Unity Game Developer / QA Game Tester — focused on maintainable gameplay systems, modular architecture, and player engagement.</h3>
 
 
