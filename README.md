@@ -16,7 +16,7 @@
 - 🔭 Currently working with **Unity** (game mechanics & systems + QA testing)
 - 🧠 I enjoy building **event-driven flows**, **quest/progression systems**, **AI/game cycles** (day-night, economy)
 - 🧪 Strong focus on **debugging**, **maintainability**, and **clean modular code**
-- 🔐 Most of my daily work is on private Unity repositories (systems, prototypes, QA tools)
+- 🔐 Most of my daily work is on private Unity repositories (systems, prototypes)
 - 📍 Istanbul, Turkiye
 - 📫 Reach me: **berkancenan@hotmail.com**
 
